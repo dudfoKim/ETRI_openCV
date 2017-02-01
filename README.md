@@ -10,3 +10,5 @@ required
 - some libraries for Display, Graphic
 - many image files for testing
 - c++
+
+you can see the test video (upload at 1st, February, 2017)
