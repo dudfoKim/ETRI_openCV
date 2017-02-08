@@ -17,4 +17,5 @@ required
 
 ********************************************************************
 
-update file, tesint video by this project (ver : 1st, February, 2017) - recommend the download .avi file
+update file, testing video by this project (ver : 1st, February, 2017) 
+=> recommend the download 'check_some video.mp4' file
