@@ -1,3 +1,7 @@
+
+This repository has contained XM Media project in ETRI.
+
+
 it contains OpenCV and object tracking through c++
 
 checking the path and chase the object
