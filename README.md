@@ -1,6 +1,6 @@
-
 This repository has contained XM Media project in ETRI.
 
+********************************************************************
 
 it contains OpenCV and object tracking through c++
 
@@ -15,7 +15,6 @@ required
 - many image files for testing
 - c++
 
+********************************************************************
 
-*** upload at 1st, February, 2017 ***
-
-you can see the test video (I recommend download the file)
+update file, tesint video by this project (ver : 1st, February, 2017) - recommend the download .avi file
