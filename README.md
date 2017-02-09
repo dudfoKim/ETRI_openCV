@@ -17,6 +17,4 @@ required
 
 ********************************************************************
 
-update file, testing video by this project (ver : 1st, February, 2017) 
-
-=> recommend the download 'check_some video.mp4' file
+1. update file, testing video by this project : 'check_some video.mp4' (ver : 1st, February, 2017) 
