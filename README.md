@@ -1,4 +1,4 @@
-This repository has contained the XM Media project in ETRI.
+This repository has contained the XM Media and Giga Korea project in ETRI.
 
 ********************************************************************
 
