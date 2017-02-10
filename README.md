@@ -1,4 +1,4 @@
-This repository has contained XM Media project in ETRI.
+This repository has contained the XM Media project in ETRI.
 
 ********************************************************************
 
