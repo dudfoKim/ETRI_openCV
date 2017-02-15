@@ -1,0 +1,1 @@
+/home/kyl/myFirst_openCV/build/CMakeFiles/vo.dir
