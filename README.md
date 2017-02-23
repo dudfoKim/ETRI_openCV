@@ -2,7 +2,7 @@
 
 ********************************************************************
 
-This repository has contained the XM Media and Giga Korea project in ETRI.
+This repository has contained the Giga Korea project in ETRI.
 
 it contains OpenCV and object tracking through c++
 
